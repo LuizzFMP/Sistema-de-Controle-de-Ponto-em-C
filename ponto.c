@@ -3,8 +3,8 @@
 #include <string.h>
 
 //Ponto eletrônico para controle de funcionários - Universidade Positivo
-//Luiz Felipe
-//Luis Arthur
+//Luiz Felipe Melo Pimentel
+//Luis Arthur Carneiro de Almeida
 
 //Structs
 
